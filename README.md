@@ -49,5 +49,7 @@ Este proyecto incluye dos dashboards en Power BI para monitorear los siguientes 
 - **Objetivo**: Reducir en un 7% el número de accidentes fatales que involucran a motociclistas en el último año en CABA, comparado con el año anterior.
 - **Explicación**: Buscamos disminuir la cantidad de accidentes fatales que involucran a motociclistas. Comparamos el número de estos accidentes en el último año con el año anterior, y nuestro objetivo es una reducción del 7%.
 
-
+#### Dashboard 3: Reducción de Accidentes Fatales para Víctimas Masculinas de 18 a 45 Años
+- **Objetivo**: Reducir en un 10% el número de accidentes fatales para las víctimas de entre 18 y 45 años de género masculino, en comparación con el año anterior.
+- **Explicación**: Queremos reducir la cantidad de accidentes fatales que afectan a hombres de entre 18 y 45 años. Comparamos el número de estos accidentes en el último año con el año anterior, y nuestro objetivo es una reducción del 10%.
 
